@@ -12,7 +12,15 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Users</a>
                 </li>
-
+                <li class="nav-item">
+                    <a class="nav-link" href="cookie">Cookie</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="session">Session</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/userData">User Data</a>
+                </li>
 
             </ul>
             <form class="d-flex">
